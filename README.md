@@ -10,3 +10,4 @@ Fig3.png - City Latitude vs Cloudiness chart
 Fig4.png - City Latitude vs Wind Speed chart
 cities.csv - Output file from WeatherPy.ipynb
 cities.csv.org - Original city output file from the starter code
+Also note the .gitignore file used to filter the api_keys.py from being stored in the repository as the file contains sensitive api keys
